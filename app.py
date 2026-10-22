@@ -31,7 +31,7 @@ wishlist = [
     {"nom":"Soin couleur chez le coiffeur","prix":220,"categorie":"Bien-être","description":"Un changement capillaire, je veux passer au clair pour l'hiver","image":"https://drive.google.com/file/d/1M0E_hS8561P1ai1dC--SmRgge3iLyQGO/view?usp=drive_link","lien":"https://www.treatwell.fr/"},
     {"nom":"Sac de luxe","prix":230,"categorie":"Mode","description":"Si le budget le permet et si pépite il y a...","image":"https://drive.google.com/file/d/1sgmXYRZMYwIDMrWQJfvYVQ-8ltgglKcc/view?usp=drive_link","lien":"https://fr.vestiairecollective.com/"},
     {"nom":"Lunettes de luxe","prix":60,"categorie":"Accessoires","description":"Une jolie paire de luxe de seconde main pour orner mon petit nez","image":"https://drive.google.com/file/d/1e1bfpZygvbsVMINj6hVG8J2d1jhrkTDw/view?usp=drive_link","lien":"https://fr.vestiairecollective.com/accessoires-femme/lunettes/prada/lunettes-prada-en-plastique-multicolore-71987231.shtml"},
-    {"nom":"Mocassins Gucci","prix":230,"categorie":"Mode","description":"Pourquoi pas des mocassins Gucci à mon tour ?","image":"https://drive.google.com/file/d/13a5GYxNp9esZCCDb3Wjsix-QdZQb32gk/view?usp=drive_link","lien":"https://fr.vestiairecollective.com/"}
+    {"nom":"Mocassins Gucci","prix":230,"categorie":"Mode","description":"Pourquoi pas des mocassins Gucci à mon tour ?","image":"https://drive.google.com/file/d/13a5GYxNp9esZCCDb3Wjsix-QdZQb32gk/view?usp=drive_link","lien":"https://fr.vestiairecollective.com/search/?q=mocassins+Gucci#gender=Femme%231"}
 ]
 
 def nettoyer_url(texte):
